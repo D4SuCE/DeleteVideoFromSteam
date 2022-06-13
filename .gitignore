@@ -1,0 +1,4 @@
+DeleteVideoFromSteam/creds.py
+*.txt
+*.data
+*.session
